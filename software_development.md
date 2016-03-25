@@ -7,3 +7,4 @@
 5. Deploy to staging, and run simulated QA test on staging.
 6. If it passes staging, merge feature code into master.
 7. Release master, deploy to production.
+8. Write up documentaion for new code.
